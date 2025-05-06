@@ -1,4 +1,4 @@
-# moodink2
+# MOODINK
 
 A new Flutter project.
 
